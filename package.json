@@ -1,8 +1,11 @@
 {
   "scripts": {
-    "dev" :"npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
   "devDependencies": {
     "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "swiper": "^10.3.0"
   }
 }
