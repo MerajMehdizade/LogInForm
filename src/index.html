@@ -6,8 +6,67 @@
     <script src="./app.js" defer></script>
     <link href="/dist/output.css" rel="stylesheet" />
   </head>
-  <body>
-
+  <body class="bg-slate-300 flex justify-center items-center h-screen">
+    <div class="container mx-auto p-1">
+      <div class="flex justify-center items-center">
+        <div class="w-96 h-[550px] bg-blue-800 rounded-s-xl"></div>
+        <div class="w-96 h-[550px] bg-white rounded-e-xl p-5">
+          <div class="space-y-5 h-full">
+            <div class="text-center mt-10">
+              <h1 class="font-bold text-2xl">Hello Again!</h1>
+              <p class="mt-2 text-gray-400">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              </p>
+            </div>
+            <div>
+              <div class="relative z-0 w-full mb-6 group">
+                <input
+                  type="email"
+                  name="floating_email"
+                  id="floating_email"
+                  class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                  placeholder=" "
+                  required
+                />
+                <label
+                  for="floating_email"
+                  class="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:left-0 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
+                  >Email</label
+                >
+              </div>
+              <div class="relative z-0 w-full mb-6 group">
+                <input
+                  type="password"
+                  name="floating_password"
+                  id="floating_password"
+                  class="block py-2.5 px-0 w-full text-sm text-gray-900 bg-transparent border-0 border-b-2 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-blue-500 focus:outline-none focus:ring-0 focus:border-blue-600 peer"
+                  placeholder=" "
+                  required
+                />
+                <label
+                  for="floating_password"
+                  class="peer-focus:font-medium absolute text-sm text-gray-500 dark:text-gray-400 duration-300 transform -translate-y-6 scale-75 top-3 -z-10 origin-[0] peer-focus:left-0 peer-focus:text-blue-600 peer-focus:dark:text-blue-500 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6"
+                  >Password</label
+                >
+              </div>
+              <div class="flex justify-between items-center text-sm">
+                <h3><a href="#"> Remember Me </a></h3>
+                <h3 class="text-blue-700"><a href="#"> Forget Password </a></h3>
+              </div>
+            </div>
+            <div class="text-center">
+              <button class="w-72 text-white rounded-lg h-10 bg-blue-800 mt-6">
+                Login
+              </button>
+              <button class="w-72 rounded-lg h-10 mt-6 border border-gray-200 text-gray-400">Sign in With Google</button>
+            </div>
+            <div>
+              <h4 class="text-center font-medium">Dont have an account yet? <a href="#" class="text-blue-800">Sign Up</a></h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
   </body>
 </html>
