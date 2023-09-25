@@ -4,7 +4,7 @@
 <h3 align="center">LogIn Form</h3>
 
   <p align="center">
-<!--     A responsive loginForm crafted with JS and Tailwind CSS, providing an accurate and visually appealing timekeeping experience. -->
+	This is a LoginForm for user authentication, developed with the help of Tailwind and JavaScript
     <br />
   </p>
 </div>
@@ -17,7 +17,7 @@ Npm run dev
 ```
 ## About The Project
 
-A sleek and responsive digital clock created with Vanilla JS and Tailwind CSS. Stay on schedule and never miss a beat with this elegant timekeeping tool. Whether on desktop or mobile, This digital clock ensures accurate and visually appealing time display, enhancing your productivity and time management skills.
+This is a form for user validation that was developed with the help of Telwind and JavaScript and is fully responsive and has beautiful sliders and messages that you can use on your websites because it has a very easy user interface.
 
 #### Desktop Design
 
