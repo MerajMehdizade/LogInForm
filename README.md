@@ -15,6 +15,15 @@
 Npm i  // for nodeFile
 Npm run dev
 ```
+### Features of this template :
+<ol>
+  <li>Responsive</li>
+  <li>Best Practices</li>
+  <li>Clean Code</li>
+  <li>Slider</li>
+  <li>Beautiful Message</li>
+</ol>
+
 ## About The Project
 
 This is a form for user validation that was developed with the help of Telwind and JavaScript and is fully responsive and has beautiful sliders and messages that you can use on your websites because it has a very easy user interface.
