@@ -22,13 +22,13 @@ A sleek and responsive digital clock created with Vanilla JS and Tailwind CSS. S
 #### Desktop Design
 
 <p align="center">
-  <img src="https://github.com/MerajMehdizade/Digital-Clock/assets/105376555/6223e66b-203f-4251-bba3-1c8e28d97038" alt="desktop view" width="600"  />
+  <img src="https://github.com/MerajMehdizade/LogInForm/assets/105376555/707788be-ff6b-4643-88ea-538cb317e886" alt="desktop view" width="600"  />
 </p>
 
 #### Mobile Design
 
 <p align="center">
-	<img src="https://github.com/MerajMehdizade/Digital-Clock/assets/105376555/8b08e32f-3ed1-4654-a38d-2a33860051d4" alt="mobile view" height="500" /> 
+	<img src="https://github.com/MerajMehdizade/LogInForm/assets/105376555/718c6ca8-1c92-4755-a1a8-ade9ac4356b4" alt="mobile view" height="500" /> 
 </p>
 
 ### Built With
